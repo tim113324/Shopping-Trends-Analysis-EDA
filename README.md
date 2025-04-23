@@ -88,7 +88,7 @@ These insights can guide businesses in identifying customer patterns, improving 
 1. **Clone this repository:**
 
 ```bash
-git clone [Click here to clone the repository](https://github.com/tim113324/Shopping-Trends-Analysis.git)
+git clone https://github.com/tim113324/Shopping-Trends-Analysis-EDA-.git
 ```
 
 2. **Install required dependencies:**
@@ -97,10 +97,6 @@ git clone [Click here to clone the repository](https://github.com/tim113324/Shop
 pip install pandas numpy matplotlib seaborn
 ```
 
-3. **Download the dataset shopping_trends_updated.csv and place it in the same directory as the script. You can find the dataset here.**
+3. **Make sure to download the shopping_trends_updated.csv dataset and place it in the same directory as the Python script (Shopping_trends_analysis.py).**
 
-4. **Run the Python script:**
-```bash
-python shopping_trends_analysis.py
-Make sure that the shopping_trends_updated.csv file is in the same directory as the script.
-```
+4. **Run the Python script**

@@ -88,8 +88,7 @@ These insights can guide businesses in identifying customer patterns, improving 
 1. **Clone this repository:**
 
 ```bash
-git clone https://github.com/tim113324/Shopping-Trends-Analysis.git
-cd Shopping-Trends-Analysis
+git clone [Click here to clone the repository](https://github.com/tim113324/Shopping-Trends-Analysis.git)
 ```
 
 2. **Install required dependencies:**

@@ -100,3 +100,7 @@ pip install pandas numpy matplotlib seaborn
 3. **Make sure to download the shopping_trends_updated.csv dataset and place it in the same directory as the Python script (Shopping_trends_analysis.py).**
 
 4. **Run the Python script**
+
+## 📝 Acknowledgments
+
+This project is developed by [tim113324] and is based on publicly available shopping trends data on Kaggle. All rights reserved. Please give appropriate credit when using or sharing this work.

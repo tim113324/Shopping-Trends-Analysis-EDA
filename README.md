@@ -1,4 +1,4 @@
-# 🛍️ Shopping Trends Analysis
+# 🛍️ Shopping Trends Analysis (EDA)
 
 This project analyzes a dataset of shopping trends, exploring various aspects such as customer demographics, purchase behavior, product categories, sales data, and more. The analysis uses Python libraries such as `pandas`, `numpy`, `matplotlib`, and `seaborn` for data manipulation and visualization. The results are presented through various charts and graphs to gain insights into shopping trends.
 

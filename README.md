@@ -72,7 +72,6 @@ The analysis provides a **comprehensive overview** of shopping trends across:
 
 These insights can guide businesses in identifying customer patterns, improving marketing strategies, and optimizing inventory based on trends.
 
----
 
 ## ✨ Potential Extensions
 
@@ -81,7 +80,6 @@ These insights can guide businesses in identifying customer patterns, improving 
 - **Extend the dataset with time-series data** for forecasting future sales trends based on past purchase data.
 - **Advanced visualizations** with interactive tools such as Plotly or dashboards with Flask/Dash to enhance user experience.
 
----
 
 ## 🛠️ How to Use
 
@@ -103,4 +101,4 @@ pip install pandas numpy matplotlib seaborn
 
 ## 📝 Acknowledgments
 
-This project is developed by [tim113324] and is based on publicly available shopping trends data on Kaggle. All rights reserved. Please give appropriate credit when using or sharing this work.
+This project is developed by tim113324 and is based on publicly available shopping trends data on Kaggle. All rights reserved. Please give appropriate credit when using or sharing this work.

@@ -90,3 +90,18 @@ These insights can guide businesses in identifying customer patterns, improving 
 ```bash
 git clone https://github.com/tim113324/Shopping-Trends-Analysis.git
 cd Shopping-Trends-Analysis
+```
+
+2. **Install required dependencies:**
+
+```bash
+pip install pandas numpy matplotlib seaborn
+```
+
+3. **Download the dataset shopping_trends_updated.csv and place it in the same directory as the script. You can find the dataset here.**
+
+4. **Run the Python script:**
+```bash
+python shopping_trends_analysis.py
+Make sure that the shopping_trends_updated.csv file is in the same directory as the script.
+```

@@ -92,10 +92,11 @@ git clone https://github.com/tim113324/Shopping-Trends-Analysis-EDA-.git
 2. **Install required dependencies:**
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+ipynb --- !pip install pandas numpy matplotlib seaborn
+py    --- pip install pandas numpy matplotlib seaborn
 ```
 
-3. **Make sure to download the shopping_trends_updated.csv dataset and place it in the same directory as the Python script (Shopping_trends_analysis.py).**
+3. **Make sure to download the shopping_trends_updated.csv dataset and place it in the same directory as the Python script.**
 
 4. **Run the Python script**
 
